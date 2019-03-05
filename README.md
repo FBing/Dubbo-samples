@@ -4,8 +4,8 @@ Java分布式RPC服务框架教程，包括 Dubbo/Dubbox, Motan, gRPC.
 ## Dubbo
 Alibaba [Dubbo](https://github.com/alibaba/dubbo).
 
-## Dubbox
-dangdang.com [Dubbox](https://github.com/dangdangdotcom/dubbox).
+## sofa-rpc
+Alipay [sofa-rpc](https://github.com/alipay/sofa-rpc).
 
 ## Motan
 Weibo [Motan](https://github.com/weibocom/motan).
