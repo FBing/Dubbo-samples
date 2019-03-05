@@ -27,4 +27,4 @@ Baidu [brpc](https://github.com/brpc/brpc)
 [Apache Avro](https://avro.apache.org/)
 
 ## Mango
-本人基于Netty4 + Zookeeper + protostuff开发的RPC框架[mango](https://github.com/TiFG/mango).
+本人基于Netty4 + Zookeeper + protostuff开发的RPC框架[mango](https://github.com/TFdream/mango).
